@@ -1,6 +1,6 @@
 import { ResultView } from "./common";
 
-const prompt = "Translate from greeklish to greek";
+const prompt = "Translate from Greeklish to Greek";
 const model = "gpt-4o";
 const toastTitle = "Thinking..";
 

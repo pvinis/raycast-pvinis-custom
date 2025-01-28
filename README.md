@@ -2,5 +2,5 @@
 
 ## Commands
 
-- `greeklish->greek`
-  It uses OpenAI API to translate greeklish to greek.
+- `Greeklish->Greek`
+  It uses OpenAI API to translate Greeklish to Greek.

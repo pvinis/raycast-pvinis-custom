@@ -12,8 +12,8 @@
   "commands": [
     {
       "name": "greeklish-to-greek",
-      "title": "greeklish->greek",
-      "description": "Convert greeklish to greek",
+      "title": "Greeklish->Greek",
+      "description": "Convert Greeklish to Greek",
       "mode": "view"
     }
   ],
